@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "images/pagoda.jpg",
+    "imageUrl": "https://github.com/frixxie2001/reactProjs/blob/master/pagoda.jpg",
     "price": 164,
     "priceCurrency": "EUR",
     "lat": 16.6142588,
