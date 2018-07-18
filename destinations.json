@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Bohemian and Chic in Paris",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/ae/73/bastide-des-maels.jpg",
-    "price": 90,
+    "price": ,
     "priceCurrency": "EUR",
     "lat": 16.5694811,
     "lng": 120.3235582
