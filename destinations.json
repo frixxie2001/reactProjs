@@ -88,5 +88,14 @@
     "priceCurrency": "EUR",
     "lat": 16.6172581,
     "lng": 120.3176039
-  }   
+  },
+  {
+    "id": 215,
+    "name": "Thunder Bird Resort",
+    "imageUrl": "http://entertainment.inquirer.net/files/2015/10/The-Flotsam-and-Jetsam-Hotel.jpg",
+    "price": 6,
+    "priceCurrency": "EUR",
+    "lat": 16.6618782,
+    "lng": 120.3222515
+  }    
 ]
