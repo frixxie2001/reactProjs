@@ -70,5 +70,14 @@
     "priceCurrency": "EUR",
     "lat": 16.3548577,
     "lng": 120.3370379
+  },
+  {
+    "id": 214,
+    "name": "Thunder Bird Resort",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/26/b7/ea/thunderbird-resorts-poro.jpg",
+    "price": 6,
+    "priceCurrency": "EUR",
+    "lat": 16.6100118,
+    "lng": 120.2860633
   }   
 ]
