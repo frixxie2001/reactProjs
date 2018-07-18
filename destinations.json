@@ -79,5 +79,14 @@
     "priceCurrency": "EUR",
     "lat": 16.6100118,
     "lng": 120.2860633
+  },
+  {
+    "id": 215,
+    "name": "Thunder Bird Resort",
+    "imageUrl": "https://3.bp.blogspot.com/-dJhJj4jcHF8/VmOc07X15EI/AAAAAAAABYo/_E49YIggRzk/s1600/1.jpg",
+    "price": 6,
+    "priceCurrency": "EUR",
+    "lat": 16.6172581,
+    "lng": 120.3176039
   }   
 ]
