@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
+    "name": "Pagoda",
     "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
     "price": 164,
     "priceCurrency": "EUR",
@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
+    "name": "Bahay na Bato",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_02.jpg",
     "price": 200,
     "priceCurrency": "EUR",
@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
+    "name": "San Juan Surf Resort",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/2f/24/17/san-juan-surf-resort.jpg",
     "price": 150,
     "priceCurrency": "EUR",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
     "price": 115,
     "priceCurrency": "EUR",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Grape Farm",
     "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
     "price": 135,
     "priceCurrency": "EUR",
@@ -46,7 +46,7 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Bell Tower",
     "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/baluarte_la_union_cover.JPG",
     "price": 90,
     "priceCurrency": "EUR",
@@ -55,7 +55,7 @@
   },
   {
     "id": 212,
-    "name": "Bohemian and Chic in Paris",
+    "name": "MY HOME",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/ae/73/bastide-des-maels.jpg",
     "price": 3,
     "priceCurrency": "EUR",
@@ -65,7 +65,7 @@
   {
     "id": 213,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/ae/73/bastide-des-maels.jpg",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM66Sgf3rFBWVESQQeaZs1_Yodc6aiQCfOL7vAR=s1600-w400",
     "price": 4,
     "priceCurrency": "EUR",
     "lat": 16.3548577,
@@ -97,5 +97,14 @@
     "priceCurrency": "EUR",
     "lat": 16.6618782,
     "lng": 120.3222515
+  },
+  {
+    "id": 216,
+    "name": "Matcho Temple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
+    "price": 12,
+    "priceCurrency": "EUR",
+    "lat": 16.6212105,
+    "lng": 120.3153105
   }    
 ]
