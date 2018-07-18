@@ -4,7 +4,6 @@
     "name": "Pagoda",
     "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
     "price": "FREE",
-    "priceCurrency": "PHP",
     "lat": 16.6142588,
     "lng": 120.317046
   },
@@ -40,7 +39,6 @@
     "name": "Grape Farm",
     "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
     "price": "FREE",
-    "priceCurrency": "PHP",
     "lat": 16.4626156,
     "lng": 120.3347272
   },
@@ -49,7 +47,6 @@
     "name": "Bell Tower",
     "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/baluarte_la_union_cover.JPG",
     "price": "FREE",
-    "priceCurrency": "PHP",
     "lat": 16.6435777,
     "lng": 120.4466021
   },
@@ -57,8 +54,6 @@
     "id": 212,
     "name": "MY HOME",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/ae/73/bastide-des-maels.jpg",
-    "price": 3,
-    "priceCurrency": "PHP",
     "lat": 16.5694811,
     "lng": 120.3235582
   },
@@ -103,7 +98,6 @@
     "name": "Matcho Temple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
     "price": "FREE",
-    "priceCurrency": "PHP",
     "lat": 16.6212105,
     "lng": 120.3153105
   }    
