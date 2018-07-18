@@ -52,5 +52,14 @@
     "priceCurrency": "EUR",
     "lat": 16.6435777,
     "lng": 120.4466021
-  }
+  },
+  {
+    "id": 212,
+    "name": "Bohemian and Chic in Paris",
+    "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/baluarte_la_union_cover.JPG",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 16.5694811,
+    "lng": 120.3235582
+  }  
 ]
