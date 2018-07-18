@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Pagoda",
     "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
-    "price": 164,
+    "price": "FREE",
     "priceCurrency": "PHP",
     "lat": 16.6142588,
     "lng": 120.317046
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Bahay na Bato",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_02.jpg",
-    "price": 200,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.8472345,
     "lng": 120.3493454
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "San Juan Surf Resort",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/2f/24/17/san-juan-surf-resort.jpg",
-    "price": 150,
+    "price": 1500,
     "priceCurrency": "PHP",
     "lat": 16.6569873,
     "lng": 120.3186836
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 115,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.4622114,
     "lng": 120.3325814
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Grape Farm",
     "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
-    "price": 135,
+    "price": "FREE",
     "priceCurrency": "PHP",
     "lat": 16.4626156,
     "lng": 120.3347272
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Bell Tower",
     "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/baluarte_la_union_cover.JPG",
-    "price": 90,
+    "price": "FREE",
     "priceCurrency": "PHP",
     "lat": 16.6435777,
     "lng": 120.4466021
@@ -64,9 +64,9 @@
   },
   {
     "id": 213,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Eco Fan Park",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM66Sgf3rFBWVESQQeaZs1_Yodc6aiQCfOL7vAR=s1600-w400",
-    "price": 4,
+    "price": 15,
     "priceCurrency": "PHP",
     "lat": 16.3548577,
     "lng": 120.3370379
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Thunder Bird Resort",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/26/b7/ea/thunderbird-resorts-poro.jpg",
-    "price": 6,
+    "price": 500,
     "priceCurrency": "PHP",
     "lat": 16.6100118,
     "lng": 120.2860633
@@ -84,7 +84,7 @@
     "id": 215,
     "name": "Halo-Halo de Iloko",
     "imageUrl": "https://3.bp.blogspot.com/-dJhJj4jcHF8/VmOc07X15EI/AAAAAAAABYo/_E49YIggRzk/s1600/1.jpg",
-    "price": 6,
+    "price": 120,
     "priceCurrency": "PHP",
     "lat": 16.6172581,
     "lng": 120.3176039
@@ -93,7 +93,7 @@
     "id": 216,
     "name": "Flotsam and Jetsam Hostel",
     "imageUrl": "http://entertainment.inquirer.net/files/2015/10/The-Flotsam-and-Jetsam-Hotel.jpg",
-    "price": 12,
+    "price": 1500,
     "priceCurrency": "PHP",
     "lat": 16.6618782,
     "lng": 120.3222515
@@ -102,7 +102,7 @@
     "id": 216,
     "name": "Matcho Temple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
-    "price": 12,
+    "price": "FREE",
     "priceCurrency": "PHP",
     "lat": 16.6212105,
     "lng": 120.3153105
