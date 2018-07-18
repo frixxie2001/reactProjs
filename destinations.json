@@ -14,8 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
     "price": 200,
     "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "lat": 16.8472345,
+    "lng": 120.3493454
   },
   {
     "id": 201,
@@ -23,8 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.6569873,
+    "lng": 120.3186836
   },
   {
     "id": 205,
@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
     "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.4622114,
+    "lng": 120.3325814
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.6149168,
+    "lng": 120.3144067
   },
   {
     "id": 211,
@@ -50,7 +50,7 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.6435777,
+    "lng": 120.4466021
   }
 ]
