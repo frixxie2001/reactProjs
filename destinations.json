@@ -1,5 +1,12 @@
 [
   {
+    "id": 212,
+    "name": "MY HOME",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/ae/73/bastide-des-maels.jpg",
+    "lat": 16.5694811,
+    "lng": 120.3235582
+  },  
+  {
     "id": 145,
     "name": "Pagoda",
     "imageUrl": "http://1.bp.blogspot.com/-WWprzZ_LywQ/UQK7tAhWnDI/AAAAAAAACTQ/n0wW2q0MdX0/s640/flipino-chinese-friendship-pagoda.jpg",
@@ -49,13 +56,6 @@
     "price": "FREE",
     "lat": 16.6435777,
     "lng": 120.4466021
-  },
-  {
-    "id": 212,
-    "name": "MY HOME",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/ae/73/bastide-des-maels.jpg",
-    "lat": 16.5694811,
-    "lng": 120.3235582
   },
   {
     "id": 213,
