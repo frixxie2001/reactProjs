@@ -82,7 +82,7 @@
   },
   {
     "id": 215,
-    "name": "Thunder Bird Resort",
+    "name": "Halo-Halo de Iloko",
     "imageUrl": "https://3.bp.blogspot.com/-dJhJj4jcHF8/VmOc07X15EI/AAAAAAAABYo/_E49YIggRzk/s1600/1.jpg",
     "price": 6,
     "priceCurrency": "EUR",
@@ -90,10 +90,10 @@
     "lng": 120.3176039
   },
   {
-    "id": 215,
-    "name": "Thunder Bird Resort",
+    "id": 216,
+    "name": "Flotsam and Jetsam Hostel",
     "imageUrl": "http://entertainment.inquirer.net/files/2015/10/The-Flotsam-and-Jetsam-Hotel.jpg",
-    "price": 6,
+    "price": 12,
     "priceCurrency": "EUR",
     "lat": 16.6618782,
     "lng": 120.3222515
